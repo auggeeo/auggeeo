@@ -18,8 +18,8 @@
 <h2 align="center">Stats</h2>
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake.svg" /><img alt="github-snake" src="https://raw.githubusercontent.com/coopeeo/coopeeo/snekOutput/github-snake.svg" /></picture>
-<img src="https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api?username=coopeeo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true#gh-dark-mode-only" alt="August's GitHub Stats" />
-<img src="https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api/top-langs/?username=coopeeo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true#gh-dark-mode-only" alt="August's Top Languages" />
+<img src="https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api?username=auggeeo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true#gh-dark-mode-only" alt="August's GitHub Stats" />
+<img src="https://readme-stats-selfhost-git-main-coopplayzz.vercel.app/api/top-langs/?username=auggeeo&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true#gh-dark-mode-only" alt="August's Top Languages" />
 </p>
 
 <h2 align="center">What I like to do in my free time</h2>
